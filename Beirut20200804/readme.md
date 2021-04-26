@@ -1,6 +1,8 @@
 ref: https://www.markdownguide.org/basic-syntax/
 <h1> Night-Time Light Investigation into the Beirut Explosion (2020-08-04)
-Gijs van den Dool[^1] Space-ins.-Solutions[^2].
+ 
+Gijs van den Dool[^1] Space-ins.-Solutions[^2]
+ 
 [^1]: add LinkedIn
 [^2]: www.spaceinssolutions.com
  
