@@ -2,10 +2,8 @@ ref: https://www.markdownguide.org/basic-syntax/
 <h1> Night-Time Light Investigation into the Beirut Explosion (2020-08-04) </h1>
  
 Gijs van den Dool <sup id="a1">[1](#f1)</sup>
-Space-ins.-Solutions <sup id="a2">[2](#f1)</sup>
+@ Space-ins.-Solutions <sup id="a2">[2](#f1)</sup>
  
-<b id="f1">1</b> Footnote content here. [↩](#a1)
-<b id="f1">1</b> https//www.spaceinssolutions.com [↩](#a1)
 
  
 <h2> Introduction </h2>
@@ -24,3 +22,7 @@ Six locations are selected to test the change in NTL before and afer the explosi
 Figure 2: Six pilot locations (Greater Beirut Area)<br>
 <br>
 
+
+
+<b id="f1">1</b> https://www.linkedin.com/in/gvddool/ [↩](#a1)
+<b id="f1">2</b> https://www.spaceinssolutions.com/ [↩](#a2)
