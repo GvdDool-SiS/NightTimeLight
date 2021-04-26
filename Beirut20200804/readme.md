@@ -1,10 +1,12 @@
 ref: https://www.markdownguide.org/basic-syntax/
 <h1> Night-Time Light Investigation into the Beirut Explosion (2020-08-04) </h1>
  
-Gijs van den Dool[^1] Space-ins.-Solutions[^2]
+Gijs van den Dool <sup id="a1">[1](#f1)</sup>
+Space-ins.-Solutions <sup id="a2">[2](#f1)</sup>
  
-[^1]: add LinkedIn
-[^2]: www.spaceinssolutions.com
+<b id="f1">1</b> Footnote content here. [↩](#a1)
+<b id="f1">1</b> https//www.spaceinssolutions.com [↩](#a1)
+
  
 <h2> Introduction </h2>
 
