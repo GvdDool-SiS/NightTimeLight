@@ -118,7 +118,7 @@ Figure 7: XXXX<br>
 <br>
 
 
-Table 1: Causal Imapact Results; method adapted from CausalImpact <sup id="a5">[5](#f1)</sup>   
+Table 1: Causal Imapact Results; method adapted from CausalImpact (xxxx, 2021) <sup id="a5">[5](#f1)</sup>   
 <table>
     <tr>
         <td>Event date: 2020-08-04</td>
@@ -136,10 +136,7 @@ Table 1: Causal Imapact Results; method adapted from CausalImpact <sup id="a5">[
         Although it may look as though the intervention has exerted a <strong>negative</strong> effect on the response variable when considering the intervention period as a whole, this effect may be spurious and would generally not be considered statistically significant.
         </td>
     </tr>
-    <tr>
-        <td> Method adapted from CausalImpact <sup id="a5">[5](#f1)</sup>                          
-        </td>
-    </tr>
+    
 </table>
 <br>
 <br>
