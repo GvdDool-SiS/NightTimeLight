@@ -49,10 +49,18 @@ Figure 2: Six pilot locations (Greater Beirut Area)<br>
 </p>
 <br>
 
+![Map of the Area of Interest](Figures/F3_EDA1.png?raw=true "Title") <br>
+Figure 3: XXXX<br>
+<br>
+
 <h3> EDA 2 </h3>
 <p>
 
 </p>
+<br>
+
+![Map of the Area of Interest](Figures/F3_EDA2.png?raw=true "Title") <br>
+Figure 4: XXXX<br>
 <br>
 
 <h3> EDA 3 </h3>
@@ -61,10 +69,28 @@ Figure 2: Six pilot locations (Greater Beirut Area)<br>
 </p>
 <br>
 
+![Map of the Area of Interest](Figures/F3_EDA3.png?raw=true "Title") <br>
+Figure 5: XXXX<br>
+<br>
+
 <h3> EDA 4 </h3>
 <p>
 
 </p>
+<br>
+
+![Map of the Area of Interest](Figures/F3_EDA4.png?raw=true "Title") <br>
+Figure 6: XXXX<br>
+<br>
+
+<h3> EDA 5 </h3>
+<p>
+
+</p>
+<br>
+
+![Map of the Area of Interest](Figures/F3_EDA5.png?raw=true "Title") <br>
+Figure 7: XXXX<br>
 <br>
 
 
@@ -85,6 +111,11 @@ Figure 2: Six pilot locations (Greater Beirut Area)<br>
 
 </p>
 <br>
+
+Event time: 2020-08-04             |  Event time: 2020-06-20
+:-------------------------:|:-------------------------:
+![Map of the Area of Interest](Figures/F4_CausalImpact1.png?raw=true "Title") |
+![Map of the Area of Interest](Figures/F4_CausalImpact2.png?raw=true "Title")
 
 
 <h2>Conclusion</h2>
