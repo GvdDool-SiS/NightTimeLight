@@ -137,7 +137,8 @@ Table 1: Causal Imapact Results
         </td>
     </tr>
     <tr>
-        <td>Method adapted from CausalImpact <sup id="a5">[5](#f1)</sup>
+        <td>Method adapted from CausalImpact 
+            <sup id="a1">[5](#f1)</sup>
         </td>
     </tr>
 </table>
