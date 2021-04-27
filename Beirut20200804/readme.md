@@ -1,4 +1,9 @@
 ref: https://www.markdownguide.org/basic-syntax/
+
+note: reorder the locations, from blast site (1) to Airport (6) - ports first, residential second.
+
+
+<br><br>
 <h1> Night-Time Light Investigation into the Beirut Explosion (2020-08-04) </h1>
  
 Gijs van den Dool <sup id="a1">[1](#f1)</sup>
@@ -115,17 +120,29 @@ Figure 7: XXXX<br>
 
 Table 1: Causal Imapact Results
 <table>
-  <tr>
-    <td>Event date: 2020-08-04</td>
-    <td>Event date: 2020-06-20</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="Figures/F4_CausalImpact1.png"></td>
-    <td valign="top"><img src="Figures/F4_CausalImpact2.png"></td>
-
-  </tr>
- </table>
-
+    <tr>
+        <td>Event date: 2020-08-04</td>
+        <td>Event date: 2020-06-20</td>
+    </tr>
+    <tr>
+        <td valign="top"><img src="Figures/F4_CausalImpact1.png"></td>
+        <td valign="top"><img src="Figures/F4_CausalImpact2.png"></td>
+    </tr>
+    <tr>
+        <td valign="top"> The probability of obtaining this effect by chance is p = 21.78%.<br> <br>
+        This means that, although the intervention appears to have caused a <strong>positive</strong> effect, the effect may be spurious and would generally not be considered statistically significant, when considering the entire post-intervention period as a whole. 
+        </td> 
+        <td valign="top"> The probability of obtaining this effect by chance is p = 9.59%. <br> <br>
+        Although it may look as though the intervention has exerted a <strong>negative</strong> effect on the response variable when considering the intervention period as a whole, this effect may be spurious and would generally not be considered statistically significant.
+        </td>
+    </tr>
+    <tr>
+        <td>Method adapted from CausalImpact <sup id="a5">[5](#f1)</sup>
+        </td>
+    </tr>
+</table>
+<br>
+<br>
 
 <h2>Conclusion</h2>
 <p>
@@ -148,6 +165,8 @@ Example 4 <sup id="a4">[4](#f1)</sup><br>
 
 <b id="f1">3</b> https://www.linkedin.com/in/gvddool/ [↩](#a3)<br>
 <b id="f1">4</b> https://www.spaceinssolutions.com/ [↩](#a4)<br>
+
+<b id="f1">5</b> CausalImpact GitHub repro https://github.com/dafiti/ [↩](#a5)<br>
 
 </p>
 
