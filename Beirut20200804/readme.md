@@ -118,7 +118,7 @@ Figure 7: XXXX<br>
 <br>
 
 
-Table 1: Causal Imapact Results
+Table 1: Causal Imapact Results; method adapted from CausalImpact <sup id="a5">[5](#f1)</sup>   
 <table>
     <tr>
         <td>Event date: 2020-08-04</td>
