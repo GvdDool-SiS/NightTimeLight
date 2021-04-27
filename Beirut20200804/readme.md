@@ -112,10 +112,19 @@ Figure 7: XXXX<br>
 </p>
 <br>
 
-Event time: 2020-08-04             |  Event time: 2020-06-20
-:-------------------------:|:-------------------------:
-![Map of the Area of Interest](Figures/F4_CausalImpact1.png?raw=true "Title") |
-![Map of the Area of Interest](Figures/F4_CausalImpact2.png?raw=true "Title")
+
+Table 1: Causal Imapact Results
+<table>
+  <tr>
+    <td>Event date: 2020-08-04</td>
+    <td>Event date: 2020-06-20</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Figures/F4_CausalImpact1.png"></td>
+    <td valign="top"><img src="Figures/F4_CausalImpact2.png"></td>
+
+  </tr>
+ </table>
 
 
 <h2>Conclusion</h2>
